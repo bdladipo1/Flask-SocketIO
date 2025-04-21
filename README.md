@@ -15,7 +15,7 @@ The following organizations are funding this project:
 
 Many individual sponsors also support this project through small ongoing contributions. Why not [join them](https://github.com/sponsors/miguelgrinberg)?
 
-Installation
+Installation.
 ------------
 
 You can install this package as usual with pip:
